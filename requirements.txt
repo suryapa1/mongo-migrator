@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit>=1.22.0
+pymongo>=4.3.3
+openai>=0.27.0
+
+# Repository analysis
+javalang>=0.13.0
+
+# File handling
+pathlib>=1.0.1
+
+# UI enhancements
+pandas>=1.5.3
+plotly>=5.13.1
+
+# Testing
+pytest>=7.3.1
