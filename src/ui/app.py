@@ -51,7 +51,7 @@ def main():
         api_key = st.text_input(
             "OpenAI API Key",
             type="password",
-            placeholder="APIKEY",
+            placeholder="",
             help="Enter your OpenAI API key for GPT-4 access"
         )
         
